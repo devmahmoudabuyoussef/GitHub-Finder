@@ -4,4 +4,4 @@
 
 ## Demo
 
-https://crypto-profit-calculator-nu.vercel.app/
+https://git-hub-finder-users.vercel.app/
