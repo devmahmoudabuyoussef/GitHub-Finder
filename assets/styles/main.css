@@ -8,12 +8,6 @@ body {
   font-family: Arial, Tahoma;
 }
 
-.container {
-  width: 80%;
-  margin: auto;
-  background-color: #f6f6f6;
-}
-
 .get__repo {
   padding: 20px;
   display: flex;
@@ -55,6 +49,7 @@ input:focus {
   padding: 15px;
   background-color: #fff;
   display: flex;
+  align-items: center;
   justify-content: space-between;
   border-radius: 3px;
 }
@@ -67,16 +62,24 @@ input:focus {
 .repo__data .repo__info span {
   color: #fff;
   font-weight: bold;
-  width: 90px;
+  /* width: 90px; */
   text-align: center;
   background-color: #f44363;
   margin-left: 10px;
   font-size: 12px;
   border-radius: 3px;
-  padding: 4px;
+  padding: 6px;
   display: inline-block;
 }
 .repo__data .repo__info a {
   text-decoration: none;
   background-color: #007b87;
+}
+
+@media (min-width: 767px) {
+  .container {
+    width: 80%;
+    margin: auto;
+    background-color: #f6f6f6;
+  }
 }
