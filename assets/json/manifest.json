@@ -1,7 +1,7 @@
 {
   "short_name": "Calculator",
   "name": "Simple Calculator",
-  "description": "A simple calculator that performs addition, subtraction, multiplication and division",
+  "description": "Easily discover and explore open-source projects on GitHub. Search by keyword, language, or filter by topic to find the perfect code for your next project.",
   "icons": [
     {
       "src": "../icons/favicon-32x32.png",
