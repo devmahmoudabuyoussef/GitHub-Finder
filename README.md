@@ -4,4 +4,4 @@
 
 ## Demo
 
-https://git-hub-finder-users.vercel.app/
+https://github-finder-users.vercel.app/
